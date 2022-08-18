@@ -1,6 +1,15 @@
 # Hurting-Linux
 Various .bashrc modifications to make your terminal experience more "enjoyable"
 
+Let me start off by saying that I *do not* take responsibility for any damages caused by my scripts. The user is ultimately the end decision-maker for judging if this is a good idea or not. 
+
+That being said, this will at least take up some time you may be bored at work and can slap down a save-state in a VM or want to learn about repairing Linux. I know it did for me.
+
+Now on with the show...
+
+=======================================================================================================================================================================
+=======================================================================================================================================================================
+
 **Do you hate Linux as much as I do? Do you want to make it suffer?**
 
 # "Stop Hitting Yourself..."
