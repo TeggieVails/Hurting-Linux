@@ -32,3 +32,8 @@ Installation is easy, simply append your .bashrc file (probably in ~, you can fi
 2. Alzheimers Linux: Commands' aliases will randomly change to a different word.
 3. Russian Roulette Linux: 1/6 Chance your terminal commands will delete a file mentioned above, even when correct.
 4. Commenter's Suggestions
+
+## My Socials
+Please follow me for updates on my projects!
+
+Twitter: @TeggieSparky
