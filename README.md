@@ -7,7 +7,7 @@ Various .bashrc modifications to make your terminal experience more "enjoyable"
 
 Introducing my new line of .bashrc scripts that will do wacky stuff, all with the hope of panicking your kernel. The first of which is a speed-optimized version of RGBCube's self-harm Linux (https://github.com/RGBCube/selfharm-linux)!
 
-Heavily modified and renamed to Sparky's Self-Harm Linux, every mistake will delete an important file in bin, etc, lib&lib64, and their respective folders in each usr folder.
+Heavily modified and renamed to *Sparky's Self-Harm Linux*, every mistake will delete an important file in bin, etc, lib&lib64, and their respective folders in each usr folder.
 
 New to programming, so any reccomendations will be very much appreciated, this seemed like a great way to get into development while doing the things I love, like making Linux cry.
 
