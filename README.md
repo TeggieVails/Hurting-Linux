@@ -13,6 +13,7 @@ New to programming, so any reccomendations will be very much appreciated, this s
 
 
 ## To do:
-1. Alzheimers Linux: Commands' aliases will randomly change to a different word.
-2. Russian Roulette Linux: 1/6 Chance your terminal commands will delete a file mentioned above, even when correct.
-3. Commenter's Suggestions
+1. **CREATE AN INSTALLER/UNINSTALLER**
+2. Alzheimers Linux: Commands' aliases will randomly change to a different word.
+3. Russian Roulette Linux: 1/6 Chance your terminal commands will delete a file mentioned above, even when correct.
+4. Commenter's Suggestions
